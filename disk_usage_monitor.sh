@@ -1,4 +1,8 @@
 #!/bin/bash
+#auther : Shehan Kaushalya
+#description: Disk Usage Monitoring Script
+#date:17/12/2025
+
 
 THRESHOLD=80
 USAGE=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
