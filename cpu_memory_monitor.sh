@@ -1,4 +1,7 @@
 #!/bin/bash
+#auther : Shehan Kaushalya
+#description: CPU and Memory Usage Monitoring Script
+#date:17/12/2025
 
 echo
 
