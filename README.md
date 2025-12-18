@@ -68,6 +68,4 @@ This repository includes four main Bash scripts:
 
 ---
 
-
 Each script has its own README with detailed instructions.
-
