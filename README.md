@@ -77,6 +77,7 @@ chmod +x *.sh
 ./script_name.sh
 ```
 
+
 Each script has its own README with detailed instructions.
 
 
