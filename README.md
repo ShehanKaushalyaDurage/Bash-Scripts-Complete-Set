@@ -69,8 +69,6 @@ This repository includes four main Bash scripts:
 ---
 
 
-Make scripts executable and run:
-
 ```bash
 chmod +x *.sh
 ./script_name.sh
