@@ -68,7 +68,6 @@ This repository includes four main Bash scripts:
 
 ---
 
-## ▶️ How to Use
 
 Make scripts executable and run:
 
